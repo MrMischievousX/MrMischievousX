@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrMischievousX
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Swift
 
 # My Current Github Status
 
