@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrMischievousX
+- 👋 Hi, I’m Akash Tureha
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Swift
 
